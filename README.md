@@ -6,9 +6,11 @@
 
 ### Problem Domain
 
-Concise Description of why this app exists
+Basic API Server to let us get a little practice before we move into more complex Lessons.
 
 ### Links and Resources
+
+[Link to my Github Repo](https://github.com/Jrc2855/server-deployment-practice)
 
 ### Setup
 
@@ -16,19 +18,16 @@ Concise Description of why this app exists
 
 ### How to initialize/run your application (where applicable)
 
-- e.g. npm start
+- npm start
 
 ### How to use your library (where applicable)
 
 ### Features / Routes
 
-- Feature One: Details of feature
-- GET: /hello - specific route to hit
-
 ### Tests
 
-- How do you run tests
+- npm test
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+![UML from Class Notes](Assets/lab-01-uml.png)
